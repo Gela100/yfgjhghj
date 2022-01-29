@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: LightSlateGray;
+     font-size: 20px;
+}
+
+h2 {
+    color: MediumPurple;
+}
+
+footer p{
+    background-color: rgb(136, 109, 190);
+    font-size: 20px;
+}
+
+nav{
+ padding: 30px;
+ background-color: Lavender;
+ }
+
+nav a{
+    font-size: 20px;
+    background-color: rgb(200, 230, 241);
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid navy ; 
+}
+
+.tyty{
+    background-color: rgb(204, 241, 155);
+}
